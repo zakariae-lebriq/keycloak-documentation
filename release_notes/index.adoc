@@ -8,6 +8,9 @@ include::topics/templates/document-attributes-community.adoc[]
 
 = {releasenotes_name}
 
+:release_header_latest_link: {releasenotes_link_latest}
+include::topics/templates/release-header.adoc[]
+
 == {project_name_full} 6.0.0
 include::topics/6_0_0.adoc[leveloffset=2]
 

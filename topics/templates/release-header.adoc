@@ -1,0 +1,2 @@
+[.versionarchive]
+Version *{project_version}* _{release_header_latest_link}[Click here for latest]_
